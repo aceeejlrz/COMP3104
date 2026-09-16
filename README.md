@@ -1,1 +1,3 @@
-# COMP3104 - Developer Operat
+# COMP3104 - Developer Operations
+
+-- Jezrel Ace
