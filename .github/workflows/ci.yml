@@ -34,10 +34,6 @@ jobs:
           node-version: '22'
           cache: 'npm'
 
-      # Step 3: Install dependencies
-      - name: Install dependencies
-        run: npm install
-
-      # Step 4: Run tests
+      # Step 3: Run tests
       - name: Run tests
         run: npm test
